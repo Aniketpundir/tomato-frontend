@@ -78,6 +78,7 @@ const Navbar = ({ setShowLogin, setRestLogin }) => {
             alt="logo"
             className="logo"
           />
+          <h1>ZZZ</h1>
           <h3 className="district">&#128205;{district}</h3>
         </Link>
 
